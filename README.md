@@ -7,7 +7,7 @@ I made them because I'm a huge Vue js fan and sometimes I need some icons to wor
 <br />
 
 ### Evolution
-At this point, I've made 6 icons out of 104.
+At this point, I've made 16 icons out of 104.
 
 ## Preview
 ![Icons preview](https://raw.githubusercontent.com/sschoger/heroicons-ui/master/preview.png)
